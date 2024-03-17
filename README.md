@@ -1,43 +1,27 @@
 # Library Management System Using C++
- I created the library management system project in C++ to merge my passion for software development with the practical needs of library operations. Through this project, I aimed to apply my knowledge of programming concepts while addressing real-world challenges faced by libraries. By automating tasks such as book cataloging, lending management, and user tracking, I sought to enhance efficiency, accuracy, and accessibility within library services. Furthermore, this project serves as a testament to my problem-solving abilities, a valuable addition to my portfolio, and potentially a contribution to the broader community through open-source sharing.
+Library management system written C++ to help libraries manage books and users more efficiently.
  
-## Cloning the repo
-You can start by cloning this repo in your wordspace and then start playing with the function to make your project done.
+## QuickStart
+**Prerequisites:** VSCode with GNU G++
+You can start by cloning this repo in your workspace
 
-git clone https://github.com/vai-20-dehi/Library-Management-System.git
+```git clone https://github.com/vai-20-dehi/Library-Management-System.git```
 
-## Packages that need to be installed:
+## What this project does?
+This project helps us to maintain a Library system consisting of an Admin and Users
 
-Visual Studio Code or ay c++ complier
+## Admin Features
+- Add Book
+- Number of Available Books
+- Check for fine
 
-## What his project does?
-This project helps us to maintain a Library system in which we have two option
-
-1.User
-
-2.Admin
-
-# Admin
-Admin gives us three functionalites-:
-
-1.Add Book
-
-2.Number of Available Books
-
-3.Check for fine
-
-# Users
-Users also provide us with three functionalites-:
-
-1.Search for book
-
-2.Issue Book
-
-3.Return Book
+## Users Features
+- Search for book
+- Issue Book
+- Return Book
 
 
-
-# Output Images of the project
+# Project Screenshots
 ## Main Menu Page
 ![Output image](https://github.com/tanny7125/Library-Management-System/blob/main/Output%20images/Screenshot%20(804).png?raw=true)
 
